@@ -8,6 +8,7 @@
   ####  :wave: Welcome my github ! 
   <br/>
   
+  #### I am learning Android at an TECHIT by LIKELION App School 2
   #### I'll update them one by one
   #### 💪Please watch over their growth
   
@@ -37,9 +38,11 @@
 <br/>
   
 <br/>
+<!-- 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=june0103&theme=tokyonight&show_icons=true"  />
 </a>
+-->
   <a href="s">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=june0103&exclude_repo=june0103.github.io&layout=compact&theme=tokyonight" />
   </a>
